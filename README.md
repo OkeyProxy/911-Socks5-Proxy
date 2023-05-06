@@ -3,9 +3,9 @@
 
 Introduce you how to use the 911 S5 Proxy/VPN in the Lalicat [antidetect browser](https://www.lalicat.com) software, please firstly download the Lalicat antidetect browser.
 
-As 911 socks5 proxy is very popular and worldwidely use in all kinds of Windows OS to emulate varied identities in different IP addresses, we discuss it and introduce how to install and use 911 S5 Proxy/Client in Lalicat Browser.
+As 911 Socks5 proxy is very popular and worldwidely use in all kinds of Windows OS to emulate varied identities in different IP addresses, we discuss it and introduce how to install and use 911 S5 Proxy/Client in Lalicat Browser.
 
-Due to the 911 proxy feature, all IP is timeliness from several hours to several days. If invalid, replace the corresponding port with a new IP in the same urban area in the 911 S5 proxy software!
+Due to the [911 proxy](https://www.lalicat.com/911-socks5-proxy) feature, all IP is timeliness from several hours to several days. If invalid, replace the corresponding port with a new IP in the same urban area in the 911 S5 proxy software!
 
 Download and install 911 proxy: 911 S5 proxy official website: https://911.re (Now 911 Proxy shut down, recommend download YiLu Socks5 Proxy official site: https://yilu.us, about how to setting YiLu Proxy in Lalicat browser, please view: https://www.lalicat.com/yilus5-proxy)
 
@@ -26,7 +26,7 @@ In the 911 S5 proxy port section of the General Settings section, select Custom 
 In the Proxy Tool section, select Other Proxy Tools.  
 If the configuration is correct and the IP is not invalid, or not connected to the proxy, you can change the using Server line to US-VIP.  
 Note: Be sure to follow the tutorial configuration, the no person will affect the anticorrelation effect of the browser fingerprint and the connection stability of the proxy IP!  
-![911 S5 Proxy & Lalicat Antidetect Browser](https://help.lalicat.com/wp-content/uploads/2022/01/911s5-proxy11.png）  
+![911 S5 Proxy & Lalicat Antidetect Browser](https://help.lalicat.com/wp-content/uploads/2022/01/911s5-proxy11.png)  
 
 ## 2.Fixed port forwarding configuration: (Single Lalicat fingerprint browser profile)  
 ### 1) Switch to the ProxyList or the TodayList page, and double-click on the proxy IP that you want to use.  
