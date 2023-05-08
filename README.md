@@ -75,5 +75,8 @@ and Click[Check the Proxy] in Lalicat Browser to confirm the Port connection is 
 
 5) Save the settings, and the profile can start the browser to test the 911 socks5 proxy.   
 
-The article is from https://www.lalicat.com/911-socks5-proxy
+The article is from https://www.lalicat.com/911-socks5-proxy  
+
+Download Lalicat antidetect browser: https://www.lalicat.com/download  
+Lalicat browser new users free trial: https://www.lalicat.com/contact-us  
 
